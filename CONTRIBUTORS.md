@@ -968,3 +968,10 @@
 - Place: France
 - Job: Python Developer
 - GitHub: [Dyna-Soar](https://github.com/Dyna-Soar)
+
+ ## Name: Ruchi Jayswal
+      * Place: Nepal
+      * Job: Associate Engineer
+      * GitHub: https://github.com/RuchiJ-sudo
+      * LinkedIn: https://www.linkedin.com/in/ruchijayswal/
+      
